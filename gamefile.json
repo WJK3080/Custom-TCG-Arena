@@ -1,0 +1,69 @@
+{
+  "name": "My Card Game",
+  "deckBuilding": {
+    "mainFilters": ["type", "theme"],
+    "formats": [
+      { "title": "Standard format", "gameplay": "Standard", "deckRuleset": "Standard" }
+    ],
+      "deckRulesets": {
+        "Standard": {
+          "general": { "min": 40, "max": 40, "maxPerCard": 3
+          },
+          "categories": [
+          { "category": "Sideboard", "min": 0, "max": 15 }
+          ]
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": { 
+        "startingHandSize": 5 
+      },
+      "beforeGameStart": {
+        "chooseAnotherStartingPlayer": true
+      },
+      "newTurn": { 
+        "drawOnStart": false,
+        "drawPerTurn": 1 
+      },
+      "countersStartingValues": [20, 15],
+        "draggableTokens": [
+        {
+          "id": "Seal",
+          "name": "Seal Counter",
+          "image": "https://valcur.github.io/TCG-Arena-MTG/Images/Tokens/Orange.png"
+        },
+        {
+          "id": "Rite",
+          "name": "Rite Counter",
+          "image": "https://valcur.github.io/TCG-Arena-MTG/Images/Tokens/Green.png"
+        },
+        {
+          "id": "Binding",
+          "name": "Binding Counter",
+          "image": "https://valcur.github.io/TCG-Arena-MTG/Images/Tokens/Blue.png"
+        },
+        {
+          "id": "Slumber",
+          "name": "Slumber Marker",
+          "image": "https://valcur.github.io/TCG-Arena-MTG/Images/Tokens/Blue.png"
+        },
+      "sections": {
+        "layout": {
+          "direction": "column",
+          "content": [
+            { "section": "PlayArea" },
+            { "section": "Mana" }
+          ]
+        },
+        "sectionsDict": {
+          "PlayArea": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER", "displayedTitle": "Play Area" },
+          "Mana": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER", "displayedTitle": "Actions" }
+        }
+      }
+    }
+  },
+  "cards": {
+    "dataUrl": "https://example.com/cards.json",
+    "cardBack": "https://example.com/card-back.jpg"
+  }
+}
