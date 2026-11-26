@@ -7,11 +7,11 @@
     ],
       "deckRulesets": {
         "Standard": {
-          "general": { "min": 40, "max": 40, "maxPerCard": 3
-          },
+          "general": { "min": 40, "max": 40, "maxPerCard": 3 },
           "categories": [
-          { "category": "Sideboard", "min": 0, "max": 15 }
-          ]
+          { "category": "Sideboard", "min": 0, "max": 15 } ]
+        },
+      },
   },
   "gameplay": {
     "Standard": {
