@@ -1,7 +1,7 @@
 {
   "name": "My Card Game",
   "deckBuilding": {
-    "mainFilters": ["type", "theme"],
+    "mainFilters": ["type", "theme", "marked"],
     "formats": [
       { "title": "Standard format", "gameplay": "Standard", "deckRuleset": "Standard" }
     ],
