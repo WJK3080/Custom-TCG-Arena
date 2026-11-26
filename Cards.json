@@ -1,1 +1,38 @@
-
+{
+  "cardId": {
+    "id": "cardId",
+    "face": {
+      "front": {
+        "name": { "name": "cardName" },
+        "type": "cardType",
+        "theme": "cardTheme",
+        "marked": "ifMarked",
+        "cost": 0,
+        "image": "https://example.com/cards/cardId.webp"
+      }
+    },
+    "name": "cardName",
+    "type": "cardType",
+    "theme": "cardTheme",
+    "marked": "ifMarked",
+    "cost": 0
+  },
+  "OCCULTRESEARCH": {
+    "id": "OCCULTRESEARCH",
+    "face": {
+      "front": {
+        "name": { "name": "Occult Research" },
+        "type": "Clue",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://example.com/cards/cardId.webp"
+      }
+    },
+    "name": "Occult Research",
+    "type": "Clue",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
+}
