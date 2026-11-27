@@ -17,4 +17,400 @@
     "marked": "None",
     "cost": 0
   },
+  "OPENTHEGATE": {
+    "id": "OPENTHEGATE",
+    "face": {
+      "front": {
+        "name": { "name": "Open The Gate" },
+        "type": "Ritual",
+        "theme": "Occult",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/OpenTheGateIMG"
+      }
+    },
+    "name": "Open The Gate",
+    "type": "Ritual",
+    "theme": "Occult",
+    "marked": "None",
+    "cost": 0
+  },
+    "FOLLOWTHETRAIL": {
+    "id": "FOLLOWTHETRAIL",
+    "face": {
+      "front": {
+        "name": { "name": "Follow The Trail" },
+        "type": "Event",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/FollowTheTrailIMG"
+      }
+    },
+    "name": "Follow The Trail",
+    "type": "Event",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
+    "WHISKEY": {
+    "id": "WHISKEY",
+    "face": {
+      "front": {
+        "name": { "name": "Whiskey" },
+        "type": "Equipment",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/WhiskeyIMG"
+      }
+    },
+    "name": "Whiskey",
+    "type": "Equipment",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
+    "MYSTERYSABOTEUR": {
+    "id": "MYSTERYSABOTEUR",
+    "face": {
+      "front": {
+        "name": { "name": "Mystery Saboteur" },
+        "type": "Event",
+        "theme": "Horror",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/MysterySaboteurIMG"
+      }
+    },
+    "name": "Mystery Saboteur",
+    "type": "Event",
+    "theme": "Horror",
+    "marked": "None",
+    "cost": 0
+  },
+    "MORPHINGART": {
+    "id": "MORPHINGART",
+    "face": {
+      "front": {
+        "name": { "name": "Morphing Art" },
+        "type": "Clue",
+        "theme": "Horror",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/MorphingArtIMG"
+      }
+    },
+    "name": "Morphing Art",
+    "type": "Clue",
+    "theme": "Horror",
+    "marked": "None",
+    "cost": 0
+  },
+    "UNLEASHEDTERROR": {
+    "id": "UNLEASHEDTERROR",
+    "face": {
+      "front": {
+        "name": { "name": "Unleashed Terror" },
+        "type": "Event",
+        "theme": "Horror",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/UnleashedTerrorIMG"
+      }
+    },
+    "name": "Unleashed Terror",
+    "type": "Event",
+    "theme": "Horror",
+    "marked": "None",
+    "cost": 0
+  },
+    "UNEXPLAINEDILLNESS": {
+    "id": "UNEXPLAINEDILLNESS",
+    "face": {
+      "front": {
+        "name": { "name": "Unexplained Illness" },
+        "type": "Ritual",
+        "theme": "Occult",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/UnexplainedIllnessIMG"
+      }
+    },
+    "name": "Unexplained Illness",
+    "type": "Ritual",
+    "theme": "Occult",
+    "marked": "None",
+    "cost": 0
+  },
+    "CRAZEDCULTIST": {
+    "id": "CRAZEDCULTIST",
+    "face": {
+      "front": {
+        "name": { "name": "Crazed Cultist" },
+        "type": "Event",
+        "theme": "Occult",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/CrazedCultistIMG"
+      }
+    },
+    "name": "Crazed Cultist",
+    "type": "Event",
+    "theme": "Occult",
+    "marked": "None",
+    "cost": 0
+  },
+    "HIDDENMESSAGE": {
+    "id": "HIDDENMESSAGE",
+    "face": {
+      "front": {
+        "name": { "name": "Hidden Message" },
+        "type": "Clue",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/HiddenMessageIMG"
+      }
+    },
+    "name": "Hidden Message",
+    "type": "Clue",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
+    "OPENMINDEDDETECTIVE": {
+    "id": "OPENMINDEDDETECTIVE",
+    "face": {
+      "front": {
+        "name": { "name": "Open-Minded Detective" },
+        "type": "Ally",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/OpenMindedDetectiveIMG"
+      }
+    },
+    "name": "Open-Minded Detective",
+    "type": "Ally",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
+    "SHUNNEDPROFESSOR": {
+    "id": "SHUNNEDPROFESSOR",
+    "face": {
+      "front": {
+        "name": { "name": "Shunned Professor" },
+        "type": "Ally",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/ShunnedProfessorIMG"
+      }
+    },
+    "name": "Shunned Professor",
+    "type": "Ally",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
+    "SACRIFICIALZEALOT": {
+    "id": "SACRIFICIALZEALOT",
+    "face": {
+      "front": {
+        "name": { "name": "Sacrificial Zealot" },
+        "type": "Ally",
+        "theme": "Occult",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/SacrificialZealotIMG"
+      }
+    },
+    "name": "Sacrificial Zealot",
+    "type": "Ally",
+    "theme": "Occult",
+    "marked": "None",
+    "cost": 0
+  },
+    "NECRONOMICON": {
+    "id": "NECRONOMICON",
+    "face": {
+      "front": {
+        "name": { "name": "Necronomicon" },
+        "type": "Equipment",
+        "theme": "Occult",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/NecronomiconIMG"
+      }
+    },
+    "name": "Necronomicon",
+    "type": "Equipment",
+    "theme": "Occult",
+    "marked": "None",
+    "cost": 0
+  },
+    "WHISPERSFROMBEYOND": {
+    "id": "WHISPERSFROMBEYOND",
+    "face": {
+      "front": {
+        "name": { "name": "Whispers From Beyond" },
+        "type": "Event",
+        "theme": "Horror",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/WhispersFromBeyondIMG"
+      }
+    },
+    "name": "Whispers From Beyond",
+    "type": "Event",
+    "theme": "Horror",
+    "marked": "None",
+    "cost": 0
+  },
+    "QUESTIONYOURBELIEFS": {
+    "id": "QUESTIONYOURBELIEFS",
+    "face": {
+      "front": {
+        "name": { "name": "Question Your Beliefs" },
+        "type": "Event",
+        "theme": "Madness",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/QuestionYourBeliefsIMG"
+      }
+    },
+    "name": "Question Your Beliefs",
+    "type": "Event",
+    "theme": "Madness",
+    "marked": "None",
+    "cost": 0
+  },
+    "DAMAGEDPSYCHE": {
+    "id": "DAMAGEDPSYCHE",
+    "face": {
+      "front": {
+        "name": { "name": "Damaged Psyche" },
+        "type": "Ritual",
+        "theme": "Madness",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/DamagedPsycheIMG"
+      }
+    },
+    "name": "Damaged Psyche",
+    "type": "Ritual",
+    "theme": "Madness",
+    "marked": "None",
+    "cost": 0
+  },
+    "EMERGENCYKIT": {
+    "id": "EMERGENCYKIT",
+    "face": {
+      "front": {
+        "name": { "name": "Emergency Kit" },
+        "type": "Equipment",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/EmergencyKitIMG"
+      }
+    },
+    "name": "Emergency Kit",
+    "type": "Equipment",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
+    "UNCOVEREDPREPARATIONS": {
+    "id": "UNCOVEREDPREPARATIONS",
+    "face": {
+      "front": {
+        "name": { "name": "Uncovered Preparations" },
+        "type": "Clue",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/UncoveredPreparationsIMG"
+      }
+    },
+    "name": "Uncovered Preparations",
+    "type": "Clue",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
+  "SHADOWSINTHECORNERS": {
+    "id": "SHADOWSINTHECORNERS",
+    "face": {
+      "front": {
+        "name": { "name": "Shadows In The Corners" },
+        "type": "Ally",
+        "theme": "Horror",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/ShadowsInTheCornersIMG"
+      }
+    },
+    "name": "Shadows In The Corners",
+    "type": "Ally",
+    "theme": "Horror",
+    "marked": "None",
+    "cost": 0
+  },
+  "EXODUSOFRATS": {
+    "id": "EXODUSOFRATS",
+    "face": {
+      "front": {
+        "name": { "name": "Exodus Of Rats" },
+        "type": "Event",
+        "theme": "Horror",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/ExodusOfRatsIMG"
+      }
+    },
+    "name": "Exodus Of Rats",
+    "type": "Event",
+    "theme": "Horror",
+    "marked": "None",
+    "cost": 0
+  },
+  "PARASITICRELIC": {
+    "id": "PARASITICRELIC",
+    "face": {
+      "front": {
+        "name": { "name": "Parasitic Relic" },
+        "type": "Equipment",
+        "theme": "Occult",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/ParasiticRelicIMG"
+      }
+    },
+    "name": "Parasitic Relic",
+    "type": "Equipment",
+    "theme": "Occult",
+    "marked": "None",
+    "cost": 0
+  },
+  "MONEYINHAND": {
+    "id": "MONEYINHAND",
+    "face": {
+      "front": {
+        "name": { "name": "Money In Hand" },
+        "type": "Equipment",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/MoneyInHandIMG"
+      }
+    },
+    "name": "Money In Hand",
+    "type": "Equipment",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
 }
