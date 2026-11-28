@@ -413,4 +413,292 @@
     "marked": "None",
     "cost": 0
   },
+  "GOODNIGHTSREST": {
+    "id": "GOODNIGHTSREST",
+    "face": {
+      "front": {
+        "name": { "name": "Good Night’s Rest" },
+        "type": "Event",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/GoodNightsRestIMG"
+      }
+    },
+    "name": "Good Night’s Rest",
+    "type": "Event",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
+  "SCIENCEORMAGIC": {
+    "id": "SCIENCEORMAGIC",
+    "face": {
+      "front": {
+        "name": { "name": "Science Or Magic?" },
+        "type": "Clue",
+        "theme": "Occult",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/ScienceOrMagicIMG"
+      }
+    },
+    "name": "Science Or Magic?",
+    "type": "Clue",
+    "theme": "Occult",
+    "marked": "None",
+    "cost": 0
+  },
+  "FORYOUROWNGOOD": {
+    "id": "FORYOUROWNGOOD",
+    "face": {
+      "front": {
+        "name": { "name": "For Your Own Good" },
+        "type": "Ritual",
+        "theme": "Occult",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/ForYourOwnGoodIMG"
+      }
+    },
+    "name": "For Your Own Good",
+    "type": "Ritual",
+    "theme": "Occult",
+    "marked": "None",
+    "cost": 0
+  },
+  "HOWLINGDOGS": {
+    "id": "HOWLINGDOGS",
+    "face": {
+      "front": {
+        "name": { "name": "Howling Dogs" },
+        "type": "Clue",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/HowlingDogsIMG"
+      }
+    },
+    "name": "Howling Dogs",
+    "type": "Clue",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
+  "STRANGEBEHAVIOR": {
+    "id": "STRANGEBEHAVIOR",
+    "face": {
+      "front": {
+        "name": { "name": "Strange Behavior" },
+        "type": "Event",
+        "theme": "Horror",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/StrangeBehaviorIMG"
+      }
+    },
+    "name": "Strange Behavior",
+    "type": "Event",
+    "theme": "Horror",
+    "marked": "None",
+    "cost": 0
+  },
+  "DRAININGCURSE": {
+    "id": "DRAININGCURSE",
+    "face": {
+      "front": {
+        "name": { "name": "Draining Curse" },
+        "type": "Ritual",
+        "theme": "Occult",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/DrainingCurseIMG"
+      }
+    },
+    "name": "Draining Curse",
+    "type": "Ritual",
+    "theme": "Occult",
+    "marked": "None",
+    "cost": 0
+  },
+  "SUDDENDISAPPEARANCE": {
+    "id": "SUDDENDISAPPEARANCE",
+    "face": {
+      "front": {
+        "name": { "name": "Sudden Disappearance" },
+        "type": "Event",
+        "theme": "Horror",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/SuddenDisappearanceIMG"
+      }
+    },
+    "name": "Sudden Disappearance",
+    "type": "Event",
+    "theme": "Horror",
+    "marked": "None",
+    "cost": 0
+  },
+  "TIMELOOP": {
+    "id": "TIMELOOP",
+    "face": {
+      "front": {
+        "name": { "name": "Time Loop" },
+        "type": "Event",
+        "theme": "Horror",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/TimeLoopIMG"
+      }
+    },
+    "name": "Time Loop",
+    "type": "Event",
+    "theme": "Horror",
+    "marked": "None",
+    "cost": 0
+  },
+  "LEARNOURWAYS": {
+    "id": "LEARNOURWAYS",
+    "face": {
+      "front": {
+        "name": { "name": "Learn Our Ways" },
+        "type": "Clue",
+        "theme": "Occult",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/LearnOurWaysIMG"
+      }
+    },
+    "name": "Learn Our Ways",
+    "type": "Clue",
+    "theme": "Occult",
+    "marked": "None",
+    "cost": 0
+  },
+  "ANGRYMOB": {
+    "id": "ANGRYMOB",
+    "face": {
+      "front": {
+        "name": { "name": "Angry Mob" },
+        "type": "Ongoing",
+        "theme": "Madness",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/AngryMobIMG"
+      }
+    },
+    "name": "Angry Mob",
+    "type": "Ongoing",
+    "theme": "Madness",
+    "marked": "None",
+    "cost": 0
+  },
+  "FRACTURINGMIND": {
+    "id": "FRACTURINGMIND",
+    "face": {
+      "front": {
+        "name": { "name": "Fracturing Mind" },
+        "type": "Ritual",
+        "theme": "Madness",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/FracturingMindIMG"
+      }
+    },
+    "name": "Fracturing Mind",
+    "type": "Ritual",
+    "theme": "Madness",
+    "marked": "None",
+    "cost": 0
+  },
+  "CACOPHONICTHOUGHTS": {
+    "id": "CACOPHONICTHOUGHTS",
+    "face": {
+      "front": {
+        "name": { "name": "Cacophonic Thoughts" },
+        "type": "Event",
+        "theme": "Madness",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/CacophonicThoughtsIMG"
+      }
+    },
+    "name": "Cacophonic Thoughts",
+    "type": "Event",
+    "theme": "Madness",
+    "marked": "None",
+    "cost": 0
+  },
+  "PROPHETOFTHEMAD": {
+    "id": "PROPHETOFTHEMAD",
+    "face": {
+      "front": {
+        "name": { "name": "Prophet Of The Mad" },
+        "type": "Ally",
+        "theme": "Madness",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/ProphetOfTheMadIMG"
+      }
+    },
+    "name": "Prophet Of The Mad",
+    "type": "Ally",
+    "theme": "Madness",
+    "marked": "None",
+    "cost": 0
+  },
+  "PIERCETHEVEIL": {
+    "id": "PIERCETHEVEIL",
+    "face": {
+      "front": {
+        "name": { "name": "Pierce The Veil" },
+        "type": "Clue",
+        "theme": "Madness",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/PierceTheVeilIMG"
+      }
+    },
+    "name": "Pierce The Veil",
+    "type": "Clue",
+    "theme": "Madness",
+    "marked": "None",
+    "cost": 0
+  },
+  "STIMULANTS": {
+    "id": "STIMULANTS",
+    "face": {
+      "front": {
+        "name": { "name": "Stimulants" },
+        "type": "Equipment",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/StimulantsIMG"
+      }
+    },
+    "name": "Stimulants",
+    "type": "Equipment",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
+  "IKNOWAGUY": {
+    "id": "IKNOWAGUY",
+    "face": {
+      "front": {
+        "name": { "name": "I Know A Guy" },
+        "type": "Event",
+        "theme": "Investigation",
+        "marked": "None",
+        "cost": 0,
+        "image": "https://wjk3080.github.io/Custom-TCG-Arena/CustomCardsIMG/IKnowAGuyIMG"
+      }
+    },
+    "name": "I Know A Guy",
+    "type": "Event",
+    "theme": "Investigation",
+    "marked": "None",
+    "cost": 0
+  },
 }
